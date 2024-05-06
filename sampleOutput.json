@@ -1,0 +1,87 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Reuters",
+        "title": "TSMC expects Q2 sales to jump on 'insatiable' AI demand - Yahoo Finance",
+        "description": "TAIPEI (Reuters) -Taiwanese chipmaker TSMC posted a 9% rise in first-quarter net profit on Thursday that beat market expectations as it rides a wave of...",
+        "url": "https://finance.yahoo.com/news/tsmc-set-report-5-rise-013137377.html",
+        "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/1211712bef0d8edaf5e43a85bced3174",
+        "publishedAt": "2024-04-18T09:34:29Z",
+        "content": "TAIPEI (Reuters) -TSMC, the world's largest chipmaker and a major Apple and Nvidia supplier, forecast second-quarter sales may rise as much as 30% as it rides a wave of demand for semiconductors used… [+3962 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Athletic"
+        },
+        "author": "The Athletic Staff",
+        "title": "What we learned from 76ers’ comeback Play-In win over Miami Heat - The Athletic",
+        "description": "Joel Embiid's clutch buckets and huge assist to Kelly Oubre Jr. late in the fourth quarter helped seal the win.",
+        "url": "https://theathletic.com/5424693/2024/04/17/76ers-heat-score-result-takeaways/",
+        "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/04/17215336/GettyImages-2147890638-scaled.jpg",
+        "publishedAt": "2024-04-18T08:26:33Z",
+        "content": "By Mike Vorkunov, Eric Koreen and Tobias Bass\r\nA tale of two halves and excellent bench play earned the Philadelphia 76ers the No. 7 seed as they held on to beat the Miami Heat 105-104 in their Play-… [+3335 chars]"
+      },
+      
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Josh Ye, David Kirton, Brenda Goh",
+        "title": "Huawei starts sales of new Pura 70 smartphone amid scrutiny on chips - Reuters",
+        "description": "Chinese technology giant Huawei started selling two models of its highly anticipated, high-end Pura 70 smartphone series on Thursday that many analysts expect to contain an advanced China-made chip like its Mate 60 handset.",
+        "url": "https://www.reuters.com/technology/chinas-huawei-start-selling-pura-70-smartphones-2024-04-18/",
+        "urlToImage": "https://www.reuters.com/resizer/v2/UDYQONB5DJPWDG66TMMILJYGTQ.jpg?auth=78e0d7e14cd82a97c2de7f12d22221614f67573e583a74ec294ced726403da37&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2024-04-18T05:15:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Japan Times"
+        },
+        "author": "Jessica Speed",
+        "title": "No link to Nankai Trough quake seen after temblor in Shikoku - The Japan Times",
+        "description": "There was no tsunami from the quake and reports suggested only minor injuries and damage.",
+        "url": "https://www.japantimes.co.jp/news/2024/04/18/japan/large-earthquake-southern-japan/",
+        "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/04/18/292944.jpg",
+        "publishedAt": "2024-04-18T05:10:29Z",
+        "content": "A magnitude 6.6 earthquake, measuring a lower 6 on Japan's seismic intensity scale, struck off the west coast of Shikoku island on Wednesday night, but authorities reported no link to a potential Nan… [+4179 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Deadline"
+        },
+        "author": "Peter White",
+        "title": "Jimmy Kimmel Says He Might Host Oscars In 2025 After Trump Remarks - Deadline",
+        "description": "Jimmy Kimmel wasn’t planning to host the Oscars next year. But now he might. The ABC late-night host was responding to comments from former President Donald Trump on Truth Social. Trump said that Kimmel was “made to look like a FOOL, which he is, and at the s…",
+        "url": "http://deadline.com/2024/04/jimmy-kimmel-oscars-trump-1235888750/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2024/02/kimmel.jpg?w=1024",
+        "publishedAt": "2024-04-18T04:47:00Z",
+        "content": "Jimmy Kimmel wasn’t planning to host the Oscars next year. But now he might.\r\nThe ABC late-night host was responding to comments from former President Donald Trump on Truth Social.\r\nTrump said that K… [+1419 chars]"
+      },
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": "Jamal Collier",
+        "title": "Bulls knock Hawks out of play-in, advance to face Heat - ESPN",
+        "description": "Coby White scored a career-high 42 points as the Bulls ousted the Hawks on Wednesday night to advance to a play-in rematch with the Heat for the No. 8 seed in the East.",
+        "url": "https://www.espn.com/nba/story/_/id/39966386/bulls-knock-hawks-play-advance-face-heat",
+        "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0418%2Fr1320504_2_1296x729_16%2D9.jpg",
+        "publishedAt": "2024-04-18T04:31:00Z",
+        "content": "CHICAGO -- After Coby White knocked down a deep 3-pointer to give the Chicago Bulls a 21-point lead in the fourth quarter Wednesday night, a sold-out United Center erupted in a booming cheer.\r\nCO-BY!… [+4046 chars]"
+      }
+      
+
+    ]
+  }
